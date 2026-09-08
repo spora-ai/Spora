@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "7354f3771d8fc8bd92c4df97bebb2f65",
+    "content-hash": "f91bf0ec0305388944834eb4eac7eecd",
     "packages": [
         {
             "name": "brick/math",
@@ -3289,16 +3289,16 @@
         },
         {
             "name": "spora-ai/spora-frontend",
-            "version": "v0.17.1",
+            "version": "v0.17.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/spora-ai/spora-frontend.git",
-                "reference": "c35864b3225a02e13bba5769bfad3afc7025cad2"
+                "reference": "bf70805ca5da734c108af62e3d6c95e342fbf9be"
             },
             "dist": {
                 "type": "tar",
-                "url": "https://github.com/spora-ai/spora-frontend/releases/download/v0.17.1/spora-frontend-v0.17.1.tar.gz",
-                "reference": "c35864b3225a02e13bba5769bfad3afc7025cad2"
+                "url": "https://github.com/spora-ai/spora-frontend/releases/download/v0.17.3/spora-frontend-v0.17.3.tar.gz",
+                "reference": "bf70805ca5da734c108af62e3d6c95e342fbf9be"
             },
             "require": {
                 "composer/installers": "^2.0",
@@ -3318,9 +3318,9 @@
             "description": "Spora admin UI — prebuilt assets delivered as a Composer package. Consumed by spora-ai/spora-skeleton via spora-ai/installer.",
             "support": {
                 "issues": "https://github.com/spora-ai/spora-frontend/issues",
-                "source": "https://github.com/spora-ai/spora-frontend/tree/v0.17.1"
+                "source": "https://github.com/spora-ai/spora-frontend/tree/v0.17.3"
             },
-            "time": "2026-09-08T12:58:46+00:00"
+            "time": "2026-09-08T15:27:42+00:00"
         },
         {
             "name": "symfony/clock",
